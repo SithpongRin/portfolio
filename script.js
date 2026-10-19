@@ -31,8 +31,23 @@
       nav_experience: "Experience",
       nav_education: "Education",
       nav_projects: "Projects",
+      nav_stem_lab: "3D Lab",
       nav_mentors: "Mentors",
       nav_contact: "Contact",
+
+      // 3D Interactive HUD & Scene
+      hud_mode_label: "3D STEM SIMULATION:",
+      hud_btn_geo: "Geometry",
+      hud_btn_wave: "Wave Field",
+      hud_btn_particles: "Particles",
+      hud_badge_live: "ACTIVE 3D WEBGL",
+      hud_cam_hint: "Drag to Rotate 3D • Scroll to Zoom",
+
+      // 3D Holographic Portrait
+      holo_status: "LICENSED STATE TEACHER",
+      holo_school: "DAMNAK PRING SCHOOL",
+      holo_focus: "MATH & PHYSICS",
+      holo_edtech: "KRUHUB CREATOR",
 
       // Hero Section
       hero_badge: "Appointed State Teacher • Regional Teacher Training Center (RTTC), Kandal",
@@ -235,8 +250,25 @@
       proj_btn_inquire: "Inquire",
       proj_btn_details: "View Details",
 
+      // Interactive 3D STEM Lab Section
+      idx_stem_lab: "06 / 3D STEM LAB",
+      stem_lab_subtitle: "Interactive 3D Physics & Math Laboratory",
+      stem_lab_title: "Interactive 3D STEM Simulation Lab",
+      stem_lab_lead: "Real-time interactive 3D simulations demonstrating mathematical surfaces, wave harmonics, and physics principles taught in secondary STEM curricula.",
+      stem_ctrl_title: "Simulation Parameters",
+      stem_lbl_freq: "Wave Frequency (f):",
+      stem_lbl_amp: "Wave Amplitude (A):",
+      stem_lbl_speed: "Propagation Speed (v):",
+      stem_lbl_preset: "Simulation Presets:",
+      stem_preset_harmonic: "Harmonic Wave",
+      stem_preset_interference: "Interference Field",
+      stem_preset_standing: "Standing Resonance",
+      stem_math_title: "Governing Physical Laws",
+      stem_reset_cam: "Reset Camera View",
+      stem_stat_fps: "Simulation Rate",
+
       // Mentors Section
-      idx_mentors: "06 / ENDORSEMENTS",
+      idx_mentors: "07 / ENDORSEMENTS",
       mentors_subtitle: "Professional Endorsement",
       mentors_title: "Academic Mentors & Referees",
       mentor1_title: "Lower Secondary Mathematics Teacher & Mentor",
@@ -245,7 +277,7 @@
       mentor2_org: "Hun Sen TaKhmau High School",
 
       // Contact Section
-      idx_contact: "07 / CONTACT",
+      idx_contact: "08 / CONTACT",
       contact_subtitle: "Direct Communication",
       contact_title: "Get In Touch",
       contact_heading: "Let's Connect & Collaborate",
@@ -284,8 +316,23 @@
       nav_experience: "បទពិសោធន៍",
       nav_education: "ការអប់រំ",
       nav_projects: "ស្នាដៃ",
+      nav_stem_lab: "បន្ទប់ពិសោធន៍ 3D",
       nav_mentors: "គ្រូណែនាំ",
       nav_contact: "ទំនាក់ទំនង",
+
+      // 3D Interactive HUD & Scene
+      hud_mode_label: "ការក្លែងធ្វើ 3D STEM៖",
+      hud_btn_geo: "ធរណីមាត្រ",
+      hud_btn_wave: "ដែនរលក",
+      hud_btn_particles: "ភាគល្អិត",
+      hud_badge_live: "ដំណើរការ 3D WEBGL",
+      hud_cam_hint: "អូសដើម្បីបង្វិល 3D • រំកិលដើម្បីពង្រីក",
+
+      // 3D Holographic Portrait
+      holo_status: "គ្រូបង្រៀនរដ្ឋពេញសិទ្ធិ",
+      holo_school: "អនុវិទ្យាល័យដំណាក់ព្រីង",
+      holo_focus: "គណិតវិទ្យា & រូបវិទ្យា",
+      holo_edtech: "ស្ថាបនិក KRUHUB",
 
       // Hero Section
       hero_badge: "គ្រូបង្រៀនក្របខ័ណ្ឌរដ្ឋ • មជ្ឈមណ្ឌលគរុកោសល្យភូមិភាគខេត្តកណ្តាល",
@@ -488,8 +535,25 @@
       proj_btn_inquire: "សាកសួរ",
       proj_btn_details: "ព័ត៌មានលម្អិត",
 
+      // Interactive 3D STEM Lab Section
+      idx_stem_lab: "០៦ / បន្ទប់ពិសោធន៍ STEM 3D",
+      stem_lab_subtitle: "បន្ទប់ពិសោធន៍រូបវិទ្យា & គណិតវិទ្យា 3D អន្តរកម្ម",
+      stem_lab_title: "បន្ទប់ក្លែងធ្វើ STEM 3D អន្តរកម្ម",
+      stem_lab_lead: "ការក្លែងធ្វើ 3D អន្តរកម្មក្នុងពេលជាក់ស្តែង បង្ហាញផ្ទៃគណិតវិទ្យា រលកអាម៉ូនិក និងគោលការណ៍រូបវិទ្យាដែលបង្រៀនក្នុងកម្មវិធីសិក្សា STEM អនុវិទ្យាល័យ។",
+      stem_ctrl_title: "ប៉ារ៉ាម៉ែត្រក្លែងធ្វើ",
+      stem_lbl_freq: "ប្រេកង់រលក (f)៖",
+      stem_lbl_amp: "ទំហំរលក (A)៖",
+      stem_lbl_speed: "ល្បឿនសាយភាយ (v)៖",
+      stem_lbl_preset: "គំរូកំណត់ស្រាប់៖",
+      stem_preset_harmonic: "រលកអាម៉ូនិក",
+      stem_preset_interference: "ដែនជ្រៀតជ្រែក",
+      stem_preset_standing: "រលកឈរ",
+      stem_math_title: "ច្បាប់រូបវិទ្យាបញ្ជា",
+      stem_reset_cam: "កំណត់ទិដ្ឋភាពកាមេរ៉ាឡើងវិញ",
+      stem_stat_fps: "ល្បឿនដំណើរការ",
+
       // Mentors Section
-      idx_mentors: "០៦ / បុគ្គលយោង",
+      idx_mentors: "០៧ / បុគ្គលយោង",
       mentors_subtitle: "បុគ្គលយោង",
       mentors_title: "លោកគ្រូអ្នកគ្រូណែនាំ និងបុគ្គលយោង",
       mentor1_title: "គ្រូបង្រៀនគណិតវិទ្យាអនុវិទ្យាល័យ និងជាគ្រូណែនាំ",
@@ -498,7 +562,7 @@
       mentor2_org: "វិទ្យាល័យ ហ៊ុន សែន តាខ្មៅ",
 
       // Contact Section
-      idx_contact: "០៧ / ទំនាក់ទំនង",
+      idx_contact: "០៨ / ទំនាក់ទំនង",
       contact_subtitle: "ទំនាក់ទំនងផ្ទាល់",
       contact_title: "ទាក់ទងមកខ្ញុំ",
       contact_heading: "រីករាយក្នុងការទំនាក់ទំនង និងពិភាក្សាការងារ",
@@ -596,6 +660,7 @@
       themeBtn.setAttribute('aria-label', isDark ? 'Switch to light theme' : 'Switch to dark theme');
       themeBtn.setAttribute('title', isDark ? 'Switch to Light Theme' : 'Switch to Dark Theme');
     }
+    document.dispatchEvent(new CustomEvent('themeChanged', { detail: { theme } }));
   }
 
   /* ==========================================================================
@@ -948,7 +1013,647 @@
   }
 
   /* ==========================================================================
-     11. DYNAMIC FOOTER YEAR & INITIALIZATION
+     11. 3D TILT ENGINE & SPECULAR GLARE
+     ========================================================================== */
+  function init3DTiltCards() {
+    if (window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+    const cards = document.querySelectorAll('.tilt-card-3d');
+    if (!cards.length) return;
+
+    cards.forEach((card) => {
+      let glare = card.querySelector('.card-glare-overlay');
+      if (!glare) {
+        glare = document.createElement('div');
+        glare.className = 'card-glare-overlay';
+        card.appendChild(glare);
+      }
+
+      let isHovered = false;
+      let rect = null;
+
+      card.addEventListener('mouseenter', () => {
+        isHovered = true;
+        rect = card.getBoundingClientRect();
+        card.style.transition = 'transform 0.08s ease-out, box-shadow 0.25s ease';
+      });
+
+      card.addEventListener('mousemove', (e) => {
+        if (!isHovered || !rect) return;
+        const x = e.clientX - rect.left;
+        const y = e.clientY - rect.top;
+
+        const centerX = rect.width / 2;
+        const centerY = rect.height / 2;
+
+        const maxTilt = card.classList.contains('hologram-portrait') ? 14 : 9;
+        const rotateX = ((y - centerY) / centerY) * -maxTilt;
+        const rotateY = ((x - centerX) / centerX) * maxTilt;
+
+        card.style.transform = `perspective(1000px) rotateX(${rotateX.toFixed(2)}deg) rotateY(${rotateY.toFixed(2)}deg) scale3d(1.02, 1.02, 1.02)`;
+
+        const glareX = (x / rect.width) * 100;
+        const glareY = (y / rect.height) * 100;
+        glare.style.background = `radial-gradient(circle at ${glareX.toFixed(1)}% ${glareY.toFixed(1)}%, rgba(255, 255, 255, 0.22) 0%, transparent 65%)`;
+      });
+
+      card.addEventListener('mouseleave', () => {
+        isHovered = false;
+        card.style.transition = 'transform 0.5s cubic-bezier(0.2, 0.8, 0.2, 1), box-shadow 0.4s ease';
+        card.style.transform = 'perspective(1000px) rotateX(0deg) rotateY(0deg) scale3d(1, 1, 1)';
+        glare.style.opacity = '0';
+      });
+    });
+  }
+
+  /* ==========================================================================
+     12. THREE.JS 3D HERO INTERACTIVE SCENE
+     ========================================================================== */
+  function initHero3DScene() {
+    const canvas = document.getElementById('hero3DCanvas');
+    const container = document.getElementById('hero3DContainer');
+    if (!canvas || !container || typeof THREE === 'undefined') return;
+
+    const scene = new THREE.Scene();
+    const camera = new THREE.PerspectiveCamera(55, container.clientWidth / container.clientHeight, 0.1, 1000);
+    camera.position.z = 10;
+
+    let renderer;
+    try {
+      renderer = new THREE.WebGLRenderer({
+        canvas: canvas,
+        alpha: true,
+        antialias: true,
+        powerPreference: 'high-performance'
+      });
+      renderer.setSize(container.clientWidth, container.clientHeight);
+      renderer.setPixelRatio(Math.min(window.devicePixelRatio || 1, 2));
+    } catch (e) {
+      console.warn('WebGL init skipped:', e);
+      return;
+    }
+
+    function getThemeColors() {
+      const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+      return {
+        isDark,
+        primary: isDark ? 0x00f0ff : 0x0284c7,
+        secondary: isDark ? 0x8b5cf6 : 0x4f46e5,
+        accent: isDark ? 0x10b981 : 0x059669
+      };
+    }
+
+    let colors = getThemeColors();
+
+    // Mode 1: Quantum Geometry Group
+    const geometryGroup = new THREE.Group();
+
+    const icoGeom = new THREE.IcosahedronGeometry(2.4, 0);
+    const icoWireMat = new THREE.MeshBasicMaterial({
+      color: colors.primary,
+      wireframe: true,
+      transparent: true,
+      opacity: 0.75
+    });
+    const icoMesh = new THREE.Mesh(icoGeom, icoWireMat);
+    geometryGroup.add(icoMesh);
+
+    const icoPointsMat = new THREE.PointsMaterial({
+      color: colors.primary,
+      size: 0.16,
+      transparent: true,
+      opacity: 0.95
+    });
+    const icoPoints = new THREE.Points(icoGeom, icoPointsMat);
+    geometryGroup.add(icoPoints);
+
+    const dodecGeom = new THREE.DodecahedronGeometry(3.6, 0);
+    const dodecWireMat = new THREE.MeshBasicMaterial({
+      color: colors.secondary,
+      wireframe: true,
+      transparent: true,
+      opacity: 0.4
+    });
+    const dodecMesh = new THREE.Mesh(dodecGeom, dodecWireMat);
+    geometryGroup.add(dodecMesh);
+
+    const ring1Geom = new THREE.TorusGeometry(4.6, 0.02, 16, 100);
+    const ring1Mat = new THREE.MeshBasicMaterial({ color: colors.primary, transparent: true, opacity: 0.6 });
+    const ring1 = new THREE.Mesh(ring1Geom, ring1Mat);
+    ring1.rotation.x = Math.PI / 3;
+    ring1.rotation.y = Math.PI / 6;
+    geometryGroup.add(ring1);
+
+    const ring2Geom = new THREE.TorusGeometry(5.2, 0.02, 16, 100);
+    const ring2Mat = new THREE.MeshBasicMaterial({ color: colors.secondary, transparent: true, opacity: 0.45 });
+    const ring2 = new THREE.Mesh(ring2Geom, ring2Mat);
+    ring2.rotation.x = -Math.PI / 4;
+    ring2.rotation.y = Math.PI / 4;
+    geometryGroup.add(ring2);
+
+    scene.add(geometryGroup);
+
+    // Mode 2: Physics Wave Field Group
+    const waveGroup = new THREE.Group();
+    const planeGeom = new THREE.PlaneGeometry(16, 16, 40, 40);
+    const waveWireMat = new THREE.MeshBasicMaterial({
+      color: colors.primary,
+      wireframe: true,
+      transparent: true,
+      opacity: 0.6
+    });
+    const waveMesh = new THREE.Mesh(planeGeom, waveWireMat);
+    waveMesh.rotation.x = -Math.PI / 2.6;
+    waveMesh.position.y = -1;
+    waveGroup.add(waveMesh);
+
+    const wavePointsMat = new THREE.PointsMaterial({
+      color: colors.secondary,
+      size: 0.08,
+      transparent: true,
+      opacity: 0.8
+    });
+    const wavePoints = new THREE.Points(planeGeom, wavePointsMat);
+    wavePoints.rotation.x = -Math.PI / 2.6;
+    wavePoints.position.y = -1;
+    waveGroup.add(wavePoints);
+
+    waveGroup.visible = false;
+    scene.add(waveGroup);
+
+    // Mode 3: Gravitational Particle Nebula Group
+    const particlesGroup = new THREE.Group();
+    const particleCount = 1000;
+    const particlePositions = new Float32Array(particleCount * 3);
+    for (let i = 0; i < particleCount; i++) {
+      const u = Math.random();
+      const v = Math.random();
+      const theta = u * 2.0 * Math.PI;
+      const phi = Math.acos(2.0 * v - 1.0);
+      const r = Math.cbrt(Math.random()) * 6.5;
+      particlePositions[i * 3] = r * Math.sin(phi) * Math.cos(theta);
+      particlePositions[i * 3 + 1] = r * Math.sin(phi) * Math.sin(theta);
+      particlePositions[i * 3 + 2] = r * Math.cos(phi);
+    }
+    const particleGeom = new THREE.BufferGeometry();
+    particleGeom.setAttribute('position', new THREE.BufferAttribute(particlePositions, 3));
+    const particlesMat = new THREE.PointsMaterial({
+      color: colors.primary,
+      size: 0.09,
+      transparent: true,
+      opacity: 0.85
+    });
+    const particleSystem = new THREE.Points(particleGeom, particlesMat);
+    particlesGroup.add(particleSystem);
+
+    particlesGroup.visible = false;
+    scene.add(particlesGroup);
+
+    // Mode Selection Buttons
+    const hudButtons = document.querySelectorAll('.hud-btn');
+    const hudActiveLabel = document.getElementById('hudActiveMode');
+
+    function set3DMode(mode) {
+      geometryGroup.visible = (mode === 'geometry');
+      waveGroup.visible = (mode === 'wave');
+      particlesGroup.visible = (mode === 'particles');
+
+      hudButtons.forEach(btn => {
+        btn.classList.toggle('active', btn.getAttribute('data-mode') === mode);
+      });
+
+      if (hudActiveLabel) {
+        const titles = {
+          geometry: 'QUANTUM GEOMETRY',
+          wave: 'PHYSICS WAVE FIELD',
+          particles: 'PARTICLE NEBULA'
+        };
+        hudActiveLabel.textContent = titles[mode] || mode.toUpperCase();
+      }
+    }
+
+    hudButtons.forEach(btn => {
+      btn.addEventListener('click', () => {
+        const mode = btn.getAttribute('data-mode');
+        if (mode) set3DMode(mode);
+      });
+    });
+
+    // Mouse Tracking & Dragging Interaction
+    let mouseX = 0;
+    let mouseY = 0;
+    let targetRotX = 0;
+    let targetRotY = 0;
+    let isDragging = false;
+    let prevMouseX = 0;
+    let prevMouseY = 0;
+
+    window.addEventListener('mousemove', (e) => {
+      const rect = container.getBoundingClientRect();
+      if (e.clientY >= rect.top && e.clientY <= rect.bottom) {
+        mouseX = (e.clientX / window.innerWidth) - 0.5;
+        mouseY = (e.clientY / window.innerHeight) - 0.5;
+      }
+    }, { passive: true });
+
+    canvas.addEventListener('mousedown', (e) => {
+      isDragging = true;
+      prevMouseX = e.clientX;
+      prevMouseY = e.clientY;
+    });
+
+    window.addEventListener('mouseup', () => {
+      isDragging = false;
+    });
+
+    window.addEventListener('mousemove', (e) => {
+      if (!isDragging) return;
+      const deltaX = e.clientX - prevMouseX;
+      const deltaY = e.clientY - prevMouseY;
+      prevMouseX = e.clientX;
+      prevMouseY = e.clientY;
+
+      targetRotY += deltaX * 0.008;
+      targetRotX += deltaY * 0.008;
+    });
+
+    // Touch Support for Mobile
+    canvas.addEventListener('touchstart', (e) => {
+      if (e.touches.length === 1) {
+        isDragging = true;
+        prevMouseX = e.touches[0].clientX;
+        prevMouseY = e.touches[0].clientY;
+      }
+    }, { passive: true });
+
+    window.addEventListener('touchend', () => {
+      isDragging = false;
+    });
+
+    window.addEventListener('touchmove', (e) => {
+      if (!isDragging || e.touches.length !== 1) return;
+      const deltaX = e.touches[0].clientX - prevMouseX;
+      const deltaY = e.touches[0].clientY - prevMouseY;
+      prevMouseX = e.touches[0].clientX;
+      prevMouseY = e.touches[0].clientY;
+
+      targetRotY += deltaX * 0.008;
+      targetRotX += deltaY * 0.008;
+    }, { passive: true });
+
+    // Handle Theme Changes
+    document.addEventListener('themeChanged', () => {
+      colors = getThemeColors();
+      icoWireMat.color.setHex(colors.primary);
+      icoPointsMat.color.setHex(colors.primary);
+      dodecWireMat.color.setHex(colors.secondary);
+      ring1Mat.color.setHex(colors.primary);
+      ring2Mat.color.setHex(colors.secondary);
+      waveWireMat.color.setHex(colors.primary);
+      wavePointsMat.color.setHex(colors.secondary);
+      particlesMat.color.setHex(colors.primary);
+    });
+
+    // Animation Loop with Visibility Caching
+    let isVisible = true;
+    let clock = new THREE.Clock();
+
+    if ('IntersectionObserver' in window) {
+      const observer = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+          isVisible = entry.isIntersecting;
+        });
+      }, { threshold: 0.05 });
+      observer.observe(container);
+    }
+
+    function animate() {
+      requestAnimationFrame(animate);
+      if (!isVisible) return;
+
+      const elapsed = clock.getElapsedTime();
+
+      targetRotY += (mouseX * 0.8 - targetRotY) * 0.04;
+      targetRotX += (mouseY * 0.8 - targetRotX) * 0.04;
+
+      if (geometryGroup.visible) {
+        geometryGroup.rotation.y += 0.006 + targetRotY * 0.02;
+        geometryGroup.rotation.x += 0.004 + targetRotX * 0.02;
+        ring1.rotation.z += 0.01;
+        ring2.rotation.z -= 0.008;
+      }
+
+      if (waveGroup.visible) {
+        waveGroup.rotation.z += 0.002;
+        const pos = planeGeom.attributes.position;
+        for (let i = 0; i < pos.count; i++) {
+          const x = pos.getX(i);
+          const y = pos.getY(i);
+          const z = 0.5 * Math.sin(0.6 * x + elapsed * 2.2) * Math.cos(0.6 * y + elapsed * 1.8);
+          pos.setZ(i, z);
+        }
+        pos.needsUpdate = true;
+      }
+
+      if (particlesGroup.visible) {
+        particlesGroup.rotation.y += 0.003;
+        particlesGroup.rotation.x += 0.002;
+      }
+
+      renderer.render(scene, camera);
+    }
+
+    animate();
+
+    window.addEventListener('resize', () => {
+      if (!container) return;
+      const width = container.clientWidth;
+      const height = container.clientHeight;
+      camera.aspect = width / height;
+      camera.updateProjectionMatrix();
+      renderer.setSize(width, height);
+      renderer.setPixelRatio(Math.min(window.devicePixelRatio || 1, 2));
+    });
+  }
+
+  /* ==========================================================================
+     13. INTERACTIVE 3D STEM PHYSICS & MATH LAB SIMULATION
+     ========================================================================== */
+  function initStemLabSimulation() {
+    const canvas = document.getElementById('stemLabCanvas');
+    const wrapper = document.querySelector('.stem-viewport-wrapper');
+    if (!canvas || !wrapper || typeof THREE === 'undefined') return;
+
+    const scene = new THREE.Scene();
+    const camera = new THREE.PerspectiveCamera(45, wrapper.clientWidth / wrapper.clientHeight, 0.1, 1000);
+    camera.position.set(0, 14, 18);
+    camera.lookAt(0, 0, 0);
+
+    let renderer;
+    try {
+      renderer = new THREE.WebGLRenderer({
+        canvas: canvas,
+        alpha: false,
+        antialias: true,
+        powerPreference: 'high-performance'
+      });
+      renderer.setSize(wrapper.clientWidth, wrapper.clientHeight);
+      renderer.setPixelRatio(Math.min(window.devicePixelRatio || 1, 2));
+      renderer.setClearColor(0x070b14, 1);
+    } catch (e) {
+      console.warn('STEM WebGL init skipped:', e);
+      return;
+    }
+
+    const gridRes = 48;
+    const planeSize = 22;
+    const geometry = new THREE.PlaneGeometry(planeSize, planeSize, gridRes, gridRes);
+    geometry.rotateX(-Math.PI / 2);
+
+    const wireMat = new THREE.MeshBasicMaterial({
+      color: 0x00f0ff,
+      wireframe: true,
+      transparent: true,
+      opacity: 0.65
+    });
+    const gridMesh = new THREE.Mesh(geometry, wireMat);
+    scene.add(gridMesh);
+
+    const pointsMat = new THREE.PointsMaterial({
+      color: 0x8b5cf6,
+      size: 0.12,
+      transparent: true,
+      opacity: 0.85
+    });
+    const pointsMesh = new THREE.Points(geometry, pointsMat);
+    scene.add(pointsMesh);
+
+    let freq = 2.0;
+    let amp = 1.0;
+    let speed = 3.0;
+    let preset = 'harmonic';
+
+    const sliderFreq = document.getElementById('sliderFreq');
+    const sliderAmp = document.getElementById('sliderAmp');
+    const sliderSpeed = document.getElementById('sliderSpeed');
+    const valFreq = document.getElementById('valFreq');
+    const valAmp = document.getElementById('valAmp');
+    const valSpeed = document.getElementById('valSpeed');
+    const telemetryFreq = document.getElementById('telemetryFreq');
+    const telemetryLambda = document.getElementById('telemetryLambda');
+    const telemetryOmega = document.getElementById('telemetryOmega');
+    const telemetryFps = document.getElementById('telemetryFps');
+    const equationDisplay = document.getElementById('stemEquationDisplay');
+    const presetLabel = document.getElementById('stemActivePresetLabel');
+    const presetBtns = document.querySelectorAll('.preset-btn');
+    const resetCamBtn = document.getElementById('stemResetCamBtn');
+
+    function updateTelemetry() {
+      const omega = 2 * Math.PI * freq;
+      const lambda = speed / freq;
+
+      if (valFreq) valFreq.textContent = `${freq.toFixed(1)} Hz`;
+      if (valAmp) valAmp.textContent = amp.toFixed(1);
+      if (valSpeed) valSpeed.textContent = `${speed.toFixed(1)} m/s`;
+
+      if (telemetryFreq) telemetryFreq.textContent = `${freq.toFixed(1)} Hz`;
+      if (telemetryLambda) telemetryLambda.textContent = `${lambda.toFixed(2)} m`;
+      if (telemetryOmega) telemetryOmega.textContent = `${omega.toFixed(2)} rad/s`;
+
+      if (equationDisplay) {
+        if (preset === 'harmonic') {
+          equationDisplay.innerHTML = `y(x,t) = ${amp.toFixed(1)} &middot; sin(${(2 * Math.PI / lambda).toFixed(2)}x - ${(omega).toFixed(2)}t)`;
+        } else if (preset === 'interference') {
+          equationDisplay.innerHTML = `y = (${(amp / 2).toFixed(1)}) &middot; [sin(k r_1 - &omega;t) + sin(k r_2 - &omega;t)]`;
+        } else if (preset === 'standing') {
+          equationDisplay.innerHTML = `y = 2(${amp.toFixed(1)}) &middot; sin(kx) &middot; cos(${(omega).toFixed(2)}t)`;
+        }
+      }
+    }
+
+    if (sliderFreq) {
+      sliderFreq.addEventListener('input', (e) => {
+        freq = parseFloat(e.target.value);
+        updateTelemetry();
+      });
+    }
+
+    if (sliderAmp) {
+      sliderAmp.addEventListener('input', (e) => {
+        amp = parseFloat(e.target.value);
+        updateTelemetry();
+      });
+    }
+
+    if (sliderSpeed) {
+      sliderSpeed.addEventListener('input', (e) => {
+        speed = parseFloat(e.target.value);
+        updateTelemetry();
+      });
+    }
+
+    presetBtns.forEach(btn => {
+      btn.addEventListener('click', () => {
+        preset = btn.getAttribute('data-preset');
+        presetBtns.forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+
+        if (presetLabel) {
+          const names = {
+            harmonic: 'Harmonic Wave Surface',
+            interference: 'Double-Source Interference Field',
+            standing: 'Standing Resonance Field'
+          };
+          presetLabel.textContent = names[preset] || 'STEM Wave Surface';
+        }
+        updateTelemetry();
+      });
+    });
+
+    // Orbit Camera Controls
+    let isDragging = false;
+    let prevX = 0;
+    let prevY = 0;
+    let sphericalTheta = Math.PI / 4;
+    let sphericalPhi = Math.PI / 3;
+    let sphericalRadius = 22;
+
+    function updateCameraPosition() {
+      camera.position.x = sphericalRadius * Math.sin(sphericalPhi) * Math.sin(sphericalTheta);
+      camera.position.y = sphericalRadius * Math.cos(sphericalPhi);
+      camera.position.z = sphericalRadius * Math.sin(sphericalPhi) * Math.cos(sphericalTheta);
+      camera.lookAt(0, 0, 0);
+    }
+
+    updateCameraPosition();
+
+    canvas.addEventListener('mousedown', (e) => {
+      isDragging = true;
+      prevX = e.clientX;
+      prevY = e.clientY;
+    });
+
+    window.addEventListener('mouseup', () => {
+      isDragging = false;
+    });
+
+    window.addEventListener('mousemove', (e) => {
+      if (!isDragging) return;
+      const dx = e.clientX - prevX;
+      const dy = e.clientY - prevY;
+      prevX = e.clientX;
+      prevY = e.clientY;
+
+      sphericalTheta -= dx * 0.008;
+      sphericalPhi = Math.max(0.15, Math.min(Math.PI / 2.05, sphericalPhi - dy * 0.008));
+      updateCameraPosition();
+    });
+
+    canvas.addEventListener('wheel', (e) => {
+      e.preventDefault();
+      sphericalRadius = Math.max(10, Math.min(35, sphericalRadius + e.deltaY * 0.02));
+      updateCameraPosition();
+    }, { passive: false });
+
+    if (resetCamBtn) {
+      resetCamBtn.addEventListener('click', () => {
+        sphericalTheta = Math.PI / 4;
+        sphericalPhi = Math.PI / 3;
+        sphericalRadius = 22;
+        updateCameraPosition();
+      });
+    }
+
+    canvas.addEventListener('touchstart', (e) => {
+      if (e.touches.length === 1) {
+        isDragging = true;
+        prevX = e.touches[0].clientX;
+        prevY = e.touches[0].clientY;
+      }
+    }, { passive: true });
+
+    window.addEventListener('touchend', () => {
+      isDragging = false;
+    });
+
+    window.addEventListener('touchmove', (e) => {
+      if (!isDragging || e.touches.length !== 1) return;
+      const dx = e.touches[0].clientX - prevX;
+      const dy = e.touches[0].clientY - prevY;
+      prevX = e.touches[0].clientX;
+      prevY = e.touches[0].clientY;
+
+      sphericalTheta -= dx * 0.008;
+      sphericalPhi = Math.max(0.15, Math.min(Math.PI / 2.05, sphericalPhi - dy * 0.008));
+      updateCameraPosition();
+    }, { passive: true });
+
+    let isVisible = true;
+    let clock = new THREE.Clock();
+    let frameCount = 0;
+    let lastFpsUpdate = 0;
+
+    if ('IntersectionObserver' in window) {
+      const observer = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+          isVisible = entry.isIntersecting;
+        });
+      }, { threshold: 0.05 });
+      observer.observe(wrapper);
+    }
+
+    function animate() {
+      requestAnimationFrame(animate);
+      if (!isVisible) return;
+
+      const t = clock.getElapsedTime();
+      const pos = geometry.attributes.position;
+      const omega = 2 * Math.PI * freq;
+      const k = (2 * Math.PI * freq) / speed;
+
+      for (let i = 0; i < pos.count; i++) {
+        const x = pos.getX(i);
+        const zCoord = pos.getZ(i);
+        let y = 0;
+
+        if (preset === 'harmonic') {
+          y = amp * Math.sin(k * x - omega * t * 0.4);
+        } else if (preset === 'interference') {
+          const d1 = Math.sqrt((x - 4) * (x - 4) + zCoord * zCoord);
+          const d2 = Math.sqrt((x + 4) * (x + 4) + zCoord * zCoord);
+          y = (amp * 0.6) * (Math.sin(k * d1 - omega * t * 0.4) + Math.sin(k * d2 - omega * t * 0.4));
+        } else if (preset === 'standing') {
+          y = amp * Math.sin(k * x) * Math.cos(omega * t * 0.4);
+        }
+
+        pos.setY(i, y);
+      }
+      pos.needsUpdate = true;
+
+      frameCount++;
+      if (t - lastFpsUpdate >= 1.0) {
+        if (telemetryFps) telemetryFps.textContent = `${frameCount} FPS`;
+        frameCount = 0;
+        lastFpsUpdate = t;
+      }
+
+      renderer.render(scene, camera);
+    }
+
+    updateTelemetry();
+    animate();
+
+    window.addEventListener('resize', () => {
+      if (!wrapper) return;
+      const w = wrapper.clientWidth;
+      const h = wrapper.clientHeight;
+      camera.aspect = w / h;
+      camera.updateProjectionMatrix();
+      renderer.setSize(w, h);
+    });
+  }
+
+  /* ==========================================================================
+     14. DYNAMIC FOOTER YEAR & INITIALIZATION
      ========================================================================== */
   function initYear() {
     const yearEl = document.getElementById('currentYear');
@@ -967,6 +1672,9 @@
     initScrollReveal();
     initBackToTop();
     initContactForm();
+    init3DTiltCards();
+    initHero3DScene();
+    initStemLabSimulation();
     initYear();
   });
 })();
